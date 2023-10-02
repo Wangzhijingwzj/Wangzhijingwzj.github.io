@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mengyu LI"
+title                    : "Mengyu Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mengyu Li"
 description              : &description "Ph.D. Candidate"
 url                      : https://Mengyu8042.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mengyu LI"
+  name             : "Mengyu Li (李梦雨)"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
   location         : "Beijing, China"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Mengyu8042"
+  github           : "Mengyu8042"
   google_plus      :
   keybase          :
   instagram        :
