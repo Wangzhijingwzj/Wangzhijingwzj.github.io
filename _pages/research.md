@@ -16,10 +16,10 @@ Publications
 ------
 [1] **Mengyu Li**, Jun Yu, Tao Li & Cheng Meng (2023). Importance sparsification for Sinkhorn algorithm. *Journal of Machine Learning Research*, 24(247), 1–44. 
 **(Student Paper Award in 2023 JSM, Statistics in Imaging Section)**.
-[[PDF]](https://www.jmlr.org/papers/volume24/22-1311/22-1311.pdf) / [[code]](https://github.com/Mengyu8042/Spar-Sink)
+[[PDF]](https://www.jmlr.org/papers/volume24/22-1311/22-1311.pdf) [[code]](https://github.com/Mengyu8042/Spar-Sink)
 
 [2] **Mengyu Li**, Jun Yu, Hongteng Xu & Cheng Meng (2023). Efficient approximation of Gromov-Wasserstein distance using importance sparsification. *Journal of Computational and Graphical Statistics*, in press.
-[[PDF]](https://arxiv.org/pdf/2205.13573.pdf) / [[code]](https://github.com/Mengyu8042/Spar-GW)
+[[PDF]](https://arxiv.org/pdf/2205.13573.pdf) [[code]](https://github.com/Mengyu8042/Spar-GW)
 
 [3] **Mengyu Li** & Junlong Zhao (2022). Communication-efficient distributed linear discriminant analysis for binary classification. *Statistica Sinica*, 32, 1343–1361.
 [[PDF]](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n308.pdf)
