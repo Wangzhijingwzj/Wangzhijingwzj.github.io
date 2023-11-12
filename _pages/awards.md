@@ -17,8 +17,8 @@ author_profile: true
 
 * Outstanding Innovative Talents Cultivation Funded Program of RUC <span style="float:right">2021–2024</span> 
 
-* National Scholarship \hfill{2023}
+* National Scholarship <span style="float:right">2023</span>
 
-* Jingdong Special Scholarship \hfill{2023}
+* Jingdong Special Scholarship <span style="float:right">2023</span>
 
 * First-Class Academic Scholarship <span style="float:right">2021, 2022, 2023</span> 
