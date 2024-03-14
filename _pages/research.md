@@ -14,9 +14,10 @@ Research Interests
 
 Publications
 ------
-* **Mengyu Li**, Jingyi Zhang & Cheng Meng. Nonparametric additive models for billion observations. *Journal of Computational and Graphical Statistics*. In press.
+* **Mengyu Li**, Jingyi Zhang & Cheng Meng (2024). Nonparametric additive models for billion observations. *Journal of Computational and Graphical Statistics*. In press.
+[[Paper]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319684) [[code]](https://github.com/Mengyu8042/Core-NAM)
 
-* Xinlai Kang, **Mengyu Li**, Xuqiang Chen, Fangyu Li & Cheng Meng (2023). A Hausdorff regression paradigm for interval privacy. *IEEE Signal Processing Letters*. In press.
+* Xinlai Kang, **Mengyu Li**, Xuqiang Chen, Fangyu Li & Cheng Meng (2024). A Hausdorff regression paradigm for interval privacy. *IEEE Signal Processing Letters*, 31, 146–150.
 [[Paper]](https://ieeexplore.ieee.org/document/10365205)
 
 * **Mengyu Li**, Jun Yu, Tao Li & Cheng Meng (2023). Importance sparsification for Sinkhorn algorithm. *Journal of Machine Learning Research*, 24(247), 1–44. 
@@ -31,9 +32,11 @@ Publications
 
 Working Papers
 ------
-* **Mengyu Li**, Jun Yu, Tao Li & Cheng Meng. Core-elements for large-scale least squares estimation. Submitted to *IEEE Transactions on Neural Networks and Learning Systems*. 
+* **Mengyu Li**, Jun Yu, Tao Li & Cheng Meng. Core-elements for large-scale least squares estimation. Submitted to *Technometrics*. 
 **(Student Paper Award in 2022 JSM, Sections on Statistical Computing and Graphics)**.
 
-* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng. Sampling-based methods for multi-block optimization problems over transport polytopes. Submitted to *Mathematics of Computation*.
+* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng. Sampling-based methods for multi-block optimization problems over transport polytopes. Revision in *Mathematics of Computation*.
 
-* Chengshuo Du, Han Hao, **Mengyu Li**, Tao Li, Cheng Meng, & Jun Yu (Alphabetical order). Ensemble pruning with conditional Wasserstein distance measure. Submitted to *IEEE Transactions on Neural Networks and Learning Systems*.
+* Chengshuo Du, Han Hao, **Mengyu Li**, Tao Li, Cheng Meng & Jun Yu (Alphabetical order). Ensemble pruning with conditional Wasserstein distance measure. Submitted to *IEEE Transactions on Neural Networks and Learning Systems*.
+
+* **Mengyu Li**, Cheng Meng & Xiaodan Fan. Iterative optimal transport for multimodal image registration. Submitted to *IEEE Transactions on Image Processing*. 
