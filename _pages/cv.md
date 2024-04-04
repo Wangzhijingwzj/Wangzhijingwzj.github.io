@@ -5,6 +5,12 @@ permalink: /group/
 author_profile: true
 ---
 
+**My Group**
+We are currently looking for highly-motivated undergraduates, graduates, postdocs, and visiting research students.
+
+
+Candidates with strong background in math or programming are especially welcome.</p>
+
 Research Interests
 ------
 * High-dimensional problems
@@ -12,6 +18,8 @@ Research Interests
 * Text analysis
 * Empirical likelihood
 * etc...
+
+
 
 Publications
 ------
