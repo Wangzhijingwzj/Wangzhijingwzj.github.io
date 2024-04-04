@@ -22,10 +22,10 @@ Candidates with strong background in math or programming are especially welcome.
  * Master
 
 
-&emsp;  &ensp; &thinsp; Yijie Wang (joint with Prof. <a href="https://stat.bnu.edu.cn/zwjl/247617.htm">Gaorong Li</a>)
+&emsp;  &ensp; &thinsp; Yijie Wang (joint with Prof. <a href="https://stat.bnu.edu.cn/zwjl/247617.htm">Gaorong Li</a>) //
 
 
-&emsp;  &ensp; &thinsp; Ziqi Liao (joint with Prof. Junyi Shi)
+&emsp;  &ensp; &thinsp; Ziqi Liao (joint with Prof. Junyi Shi) //
 
 
 &emsp;  &ensp; &thinsp; Hoaxiang Shi
