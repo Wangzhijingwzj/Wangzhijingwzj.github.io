@@ -17,7 +17,7 @@ Candidates with strong background in math or programming are especially welcome.
 ------
  * Ph.D
 
-&emsp;  &ensp; &thinsp;  Peiwen Jia (joint with Prof. [[Xiaojun Song]](https://www.gsm.pku.edu.cn/faculty/sxj/))
+&emsp;  &ensp; &thinsp;  Peiwen Jia (joint with Prof. <a href="[https://stat.bnu.edu.cn/zwjl/247617.htm](https://www.gsm.pku.edu.cn/faculty/sxj/)">Xiaojun Song</a>)
 
  * Master
 
