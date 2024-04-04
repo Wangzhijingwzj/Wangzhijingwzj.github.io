@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mengyu Li (李梦雨)"
+  name             : "Zhijing Wang (王祉静)"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
-  location         : "Beijing, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=hPWnWK0AAAAJ&hl=en"
-  email            : "limengyu516@ruc.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-TW&user=KdW7E9wAAAAJ"
+  email            : "wangzhijing@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Mengyu8042"
+  github           : "Wangzhijingwzj"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5286-7525"
+  orcid            : "https://orcid.org/0000-0002-6390-9292"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
