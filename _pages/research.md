@@ -24,8 +24,5 @@ Working Papers
 ------
 * empirical likelihood
 
-* 
+* ...
 
-* 
-
-* 
