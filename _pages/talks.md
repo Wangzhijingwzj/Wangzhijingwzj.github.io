@@ -8,6 +8,6 @@ author_profile: true
 Invited presentations
 ------
 
-* Capital Statistics and Data Science High-Level Forum, Beijing, China <span style="float:right">Jul. 2023</span>
+* Common Prosperity High-Level Forum, Jiaxing, China <span style="float:right">Apr. 2021</span>
 
-    *Efficient algorithms for large-scale optimal transport problems*
+    *Excellent paper*
