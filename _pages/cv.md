@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Group"
-permalink: /group/
+permalink: /cv/
 author_profile: true
 ---
 
