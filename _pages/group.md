@@ -1,9 +1,16 @@
 ---
 layout: archive
-title: "Research"
+title: "Group"
 permalink: /group/
 author_profile: true
 ---
+
+**My Group**
+
+We are currently looking for highly-motivated undergraduates, graduates, postdocs, and visiting research students.
+
+Candidates with strong background in math or programming are especially welcome.
+
 
 Research Interests
 ------
