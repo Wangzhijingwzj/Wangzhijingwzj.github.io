@@ -10,7 +10,7 @@ redirect_from:
 My name is Zhijing Wang, and I am currently a Ph.D candidate in the  [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), Shanghai Jiao Tong University (SJTU). I received my Bachelor degree in Statistics and Economy from Beijing Normal University in 2022. 
 
 
-My research mainly focuses on developing efficient methods for  and high-dimensional statistical models and demension reduction. I am also interested in the applications of statistics and machine learning in solving significant scientific/social problems such as economy, finance, environment.
+My research mainly focuses on developing efficient methods for high-dimensional statistical models and demension reduction. I am also interested in the applications of statistics and machine learning in solving significant scientific/social problems (including economy, finance, environment).
 
 
 
