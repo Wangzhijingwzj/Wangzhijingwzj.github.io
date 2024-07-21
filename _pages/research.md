@@ -7,10 +7,13 @@ author_profile: true
 
 Research Interests
 ------
-* High-dimensional problems
+* Demension reduction
+* Factor analysis
 * Economical and financial statistic
+* Model selection
 * Text analysis
 * Empirical likelihood
+* Conformal prediction
 * etc...
 
 Publications
