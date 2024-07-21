@@ -24,7 +24,7 @@ Publications
 
 Working Papers
 ------
-* The Relationship between Compulsory Education Investment and Inclusive Growth. _with Xun Zhang_
+* The Relationship between Compulsory Education Investment and Inclusive Growth. _with Prof. Xun Zhang_
 
 
 
