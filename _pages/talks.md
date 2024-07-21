@@ -22,6 +22,6 @@ Invited presentations
   
 * The 10th New Era China Youth Economic Forum, Beijing, China <span style="float:right">Jul. 2021</span>
 
-* The 10th New Era China Youth Economic Forum, Dalian, China <span style="float:right">Oct. 2021</span>
+* The 5th Northeast Metrology International Symposium, Dalian, China <span style="float:right">Oct. 2021</span>
 
 * Annual Conference on “China's development theory”, Beijing, China <span style="float:right">Nov. 2021</span>
