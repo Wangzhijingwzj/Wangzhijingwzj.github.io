@@ -9,4 +9,6 @@ author_profile: true
 
 * First-Class Academic Scholarship <span style="float:right">2023</span>
 * First-Class Academic Scholarship <span style="float:right">2022</span>
-* First-Class Academic Scholarship <span style="float:right">2021</span> 
+* First-Class Academic Scholarship <span style="float:right">2021</span>
+* First-Class Academic Scholarship <span style="float:right">2020</span>
+* First-Class Academic Scholarship <span style="float:right">2019</span> 
