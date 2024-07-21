@@ -9,7 +9,7 @@ Teaching Assistant
 ------
 * Basic Mathematical Statistics (for Master), Autumn 2022,2023
   
-    _distinguish TA award_
+    _Distinguish TA award_
   
 * Bayes Statistics (for Undergraduate), Spring 2023,2024
 * Advanced Macroeconomics (for Master and Ph.D.), Autumn 2021
