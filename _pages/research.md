@@ -14,7 +14,6 @@ Research Interests
 * Text analysis
 * Empirical likelihood
 * Conformal prediction
-* etc...
 
 Publications
 ------
@@ -25,7 +24,7 @@ Publications
 
 Working Papers
 ------
-* The Relationship between Compulsory Education Investment and Inclusive Growth. _Joint with Xun Zhang_
+* The Relationship between Compulsory Education Investment and Inclusive Growth. _with Xun Zhang_
 
-* ...
+
 
