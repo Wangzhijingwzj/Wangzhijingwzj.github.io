@@ -25,7 +25,7 @@ Publications
 
 Working Papers
 ------
-* empirical likelihood
+* The Relationship between Compulsory Education Investment and Inclusive Growth. _Joint with Xun Zhang_
 
 * ...
 
