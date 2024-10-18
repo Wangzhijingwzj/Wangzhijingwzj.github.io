@@ -24,7 +24,7 @@ Publications
 * Chenxi Wei, Xuan Wang, Jiajia Fang, **Zhijing Wang**, Chunhui Li, Qiang Liu, Jingzhi Yu (2023). A New Method for Estimating Multi-source Water Supply Considering Joint Probability Distributions under Uncertainty. *Frontiers in Earth Science*.
 [[Paper]](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.929613/full)
 
-* 刘潇璘, **王祉静**, 潘仁同 (2024). 谁从“申请-考核”制中受益?——基于家庭资本与能力因素的实证分析. 江苏高教. [被《新华文摘》转载]
+* 刘潇璘, **王祉静**, 潘仁同 (2024). 谁从“申请-考核”制中受益?——基于家庭资本与能力因素的实证分析. 江苏高教. [《新华文摘》转载][《人大复印资料》全文转载]
 [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=K-Um1AVqjsKQaaRb8qet-LXBXZz9-Am0cmFYIkHF-378w1fgO1sikiOftMxSjcoGw5_F9VIXDRegYj90qvm4t1JjEkKWtGLBdO8V4-lj4Uqvfet6YjV1F3joPckNDgMS4a34b-qz9SkD8KpRV6BhVXpyZGJJNo9fp1wDueB2W9ElpSdpI31z04FYTM8tdJqxZbOFk5ZlpQA3Yq6xzPbe2JE0hqEd7NIy9sHre_3cfoirKv_qmOj6jiPFr6fINF5uT9XU0o6LE9M=&uniplatform=NZKPT&language=CHS)
 
 Working Papers
