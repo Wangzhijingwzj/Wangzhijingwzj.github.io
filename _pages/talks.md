@@ -27,3 +27,7 @@ Invited presentations
 * The 2021 Annual Conference on “China's Development Theory”  <span style="float:right">Beijing, China Nov. 2021</span>
 
 * The 2024 Annual Conference of the Survey Statistics  <span style="float:right">Xian, China Sep. 2024</span>
+
+* The 11th "Wentian" Academic Forum  <span style="float:right">Shanghai, China Oct. 2024</span>
+
+
