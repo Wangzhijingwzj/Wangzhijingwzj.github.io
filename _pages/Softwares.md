@@ -28,4 +28,4 @@ A toolbox for transfer learning in high-dimensional settings using generalized f
 ### fahp: Factor Augmented Hurdle Poisson Model
 Implements the Factor Augmented Hurdle Poisson (FAHP) model for analyzing zero-inflated count data with latent factors.
 * **Related Paper**: *Factor augmented Hurdle Poisson model and its application* (Manuscript)
-* **Links**: [[R Package GitHub]](https://github.com/Wangzhijingwzj/fahp)ical likelihood
+* **Links**: [[R Package GitHub]](https://github.com/Wangzhijingwzj/fahp)
