@@ -7,16 +7,23 @@ author_profile: true
 
 Research Interests
 ------
-* Demension reduction
-* Factor analysis
-* Economical and financial statistic
-* Model selection
-* Text analysis
-* Empirical likelihood
-* Conformal prediction
+- Factor Analysis
+- Sufficient Dimension Reduction
+- Complex Data Analysis
+- Statistical Applications
 
 Publications
 ------
+
+### Statistical Methodology
+
+* **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang (2025). Data Thinning for Poisson Factor Models and Its Applications. *Journal of the American Statistical Association*.
+[[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2546577) [[Code]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2546577)
+
+* **Zhijing Wang** (2025). Entrywise splitting cross-validation in generalized factor models: from sample splitting to entrywise splitting. *Biometrics*, 81(4).
+[[Paper]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[Code]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[R package: pECV]](https://cran.r-project.org/package=pECV)
+
+### Interdisciplinary Applications
 
 * Xingyi Chen, **Zhijing Wang**, Xinyi Li, Zhongyang Liu, Kun Li (2020). The Impact of Covid-19 on the Securities Market: Evidence from Chinese Stock and Bond Markets. *Procedia Computer Science*.
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050921008589)
@@ -24,16 +31,31 @@ Publications
 * Chenxi Wei, Xuan Wang, Jiajia Fang, **Zhijing Wang**, Chunhui Li, Qiang Liu, Jingzhi Yu (2023). A New Method for Estimating Multi-source Water Supply Considering Joint Probability Distributions under Uncertainty. *Frontiers in Earth Science*.
 [[Paper]](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.929613/full)
 
-* 刘潇璘, **王祉静**, 潘仁同 (2024). 谁从“申请-考核”制中受益?——基于家庭资本与能力因素的实证分析. 江苏高教. [《新华文摘》转载],[《人大复印资料》全文转载],[年度优秀论文]
-[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=K-Um1AVqjsKQaaRb8qet-LXBXZz9-Am0cmFYIkHF-378w1fgO1sikiOftMxSjcoGw5_F9VIXDRegYj90qvm4t1JjEkKWtGLBdO8V4-lj4Uqvfet6YjV1F3joPckNDgMS4a34b-qz9SkD8KpRV6BhVXpyZGJJNo9fp1wDueB2W9ElpSdpI31z04FYTM8tdJqxZbOFk5ZlpQA3Yq6xzPbe2JE0hqEd7NIy9sHre_3cfoirKv_qmOj6jiPFr6fINF5uT9XU0o6LE9M=&uniplatform=NZKPT&language=CHS)
-
-* **王祉静**, 王红瑞, 张力, 李一阳 (2025). 基于半参数模型的能源结构调整减碳效应研究. 水资源保护.
+* **王祉静**, 王红瑞, 张力, 李一阳 (2025). 基于半参数模型的能源结构调整减碳效应研究. *水资源保护*.
 [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=fSCzX0TVvUj5m33iF1uy_8Jhgy58hxfq3HUBt7Tg9YDkcdCtwl7iRpP9guZ-bjQkidJbFBzOYtqLdPD6HUjYN6_5zHpkSTM1GDp8ubQEu7G5MB8Hk8l2iqBTC9KV2oqee7WOqn-tyLpjdmtFIE9biFv-yvefj7-e9n1Q4qbC3Ko6uscw5LkkOw==&uniplatform=NZKPT&language=CHS)
 
+* 刘潇璘, **王祉静**, 潘仁同 (2024). 谁从“申请-考核”制中受益?——基于家庭资本与能力因素的实证分析. *江苏高教*. [《新华文摘》转载], [《人大复印资料》全文转载], [年度优秀论文].
+[[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=K-Um1AVqjsKQaaRb8qet-LXBXZz9-Am0cmFYIkHF-378w1fgO1sikiOftMxSjcoGw5_F9VIXDRegYj90qvm4t1JjEkKWtGLBdO8V4-lj4Uqvfet6YjV1F3joPckNDgMS4a34b-qz9SkD8KpRV6BhVXpyZGJJNo9fp1wDueB2W9ElpSdpI31z04FYTM8tdJqxZbOFk5ZlpQA3Yq6xzPbe2JE0hqEd7NIy9sHre_3cfoirKv_qmOj6jiPFr6fINF5uT9XU0o6LE9M=&uniplatform=NZKPT&language=CHS)
 
-Working Papers
+
+Preprints and Working Papers
 ------
-* The Relationship between Compulsory Education Investment and Inclusive Growth. _with Prof. Xun Zhang._
 
-* Sufficient Dimension Reduction for Count Data. _with Prof. Peirong Xu, Hongyu Zhao and Tao Wang_.
+* **Zhijing Wang**. Sparse Generalized Factor Models with Weaker Loadings.
+*Major Revision in Scandinavian Journal of Statistics*.
+[[CRAN: sparseGFM]](https://CRAN.R-project.org/package=sparseGFM) [[GitHub]](https://github.com/zjwang1013/sparseGFM)
 
+* **Zhijing Wang**, Heng Peng, Peirong Xu. Thinning Cross-Validation for Poisson Factor Models.
+*Submitted to Statistica Sinica*.
+[[CRAN: tcv]](https://CRAN.R-project.org/package=tcv) [[GitHub]](https://github.com/Wangzhijingwzj/tcv)
+
+* **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
+*Manuscript*.
+[[CRAN: transGFM]](https://CRAN.R-project.org/package=transGFM) [[GitHub]](https://github.com/zjwangATsu/transGFM)
+
+* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor augmented Hurdle Poisson model and its application.
+*Manuscript*.
+[[GitHub: fahp]](https://github.com/Wangzhijingwzj/fahp)
+
+* **Zhijing Wang**, Yuchen Wu, Xun Zhang. Does Education Reform Reduce the Housing Premium of School Districts? Evidence from Beijing.
+*Manuscript*.
