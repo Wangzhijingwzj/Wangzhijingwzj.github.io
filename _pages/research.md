@@ -46,6 +46,7 @@ Preprints and Working Papers
 ------
 
 * **Zhijing Wang**. Sparse Generalized Factor Models with Weaker Loadings.
+
 *Major Revision in Scandinavian Journal of Statistics*.
 [[R Package CRAN]](https://CRAN.R-project.org/package=sparseGFM) [[R Package GitHub]](https://github.com/zjwang1013/sparseGFM)
 
@@ -67,9 +68,3 @@ Preprints and Working Papers
 * **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
 *Manuscript*.
 
-* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor augmented Hurdle Poisson model and its application.
-*Manuscript*.
-[[GitHub: fahp]](https://github.com/Wangzhijingwzj/fahp)
-
-* **Zhijing Wang**, Yuchen Wu, Xun Zhang. Does Education Reform Reduce the Housing Premium of School Districts? Evidence from Beijing.
-*Manuscript*.
