@@ -11,7 +11,7 @@ Teaching Assistant
   
     _Distinguish TA award_
   
-* Bayes Statistics (for Undergraduate), Spring 2023,2024
+* Bayes Statistics (for Undergraduate), Spring 2023,2024,2025
 * Advanced Macroeconomics (for Master and Ph.D.), Autumn 2021
 
     *My duties included lecturing exercise lessons, homework preparation and grading, etc.*
