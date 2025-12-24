@@ -15,6 +15,14 @@ I received my Bachelor’s degree in Statistics from the [School of Statistics](
 
 My research interests mainly focus on **high-dimensional statistical models**, **factor analysis**, **model selection**, **sufficient dimension reduction**, **transfer learning**, and **text analysis**. I am also broadly interested in the applications of statistics and machine learning to solve significant problems in social and scientific fields, particularly in **economics**, **finance**, and **environmental science**.
 
+
+Recent News
+
+- **Nov. 2025:** Our paper *Entrywise splitting cross-validation in generalized factor models: from sample splitting to entrywise splitting* has been published online in **Biometrics**.
+- **Oct. 2025:** I was honored to receive the **National Scholarship** at Shanghai Jiao Tong University.
+- **Aug. 2025:** Our paper *Data thinning for Poisson factor models and its applications* has been published online in the **Journal of the American Statistical Association (JASA)**.
+
+  
 Contact
 ======
 * Address: 800 Dongchuan RD Shanghai 200240, Minhang District, P.R. China
