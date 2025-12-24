@@ -45,9 +45,7 @@ Publications
 Preprints and Working Papers
 ------
 
-* **Zhijing Wang**. Sparse Generalized Factor Models with Weaker Loadings.
-
-*Major Revision in Scandinavian Journal of Statistics*.
+* **Zhijing Wang**. Sparse Generalized Factor Models with Weaker Loadings. *Major Revision in Scandinavian Journal of Statistics*.
 [[R Package CRAN]](https://CRAN.R-project.org/package=sparseGFM) [[R Package GitHub]](https://github.com/zjwang1013/sparseGFM)
 
 * **Zhijing Wang**, Heng Peng, Peirong Xu. Thinning Cross-Validation for Poisson Factor Models.
