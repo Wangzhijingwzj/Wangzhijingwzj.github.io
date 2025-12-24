@@ -21,7 +21,8 @@ Publications
 [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2546577) [[Code]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2546577)
 
 * **Zhijing Wang** (2025). Entrywise splitting cross-validation in generalized factor models: from sample splitting to entrywise splitting. *Biometrics*, 81(4).
-[[Paper]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[Code]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[R Package CRAN]](https://cran.r-project.org/package=pECV)
+[[Paper]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[Code]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[R Package CRAN]](https://cran.r-project.org/package=pECV) [[R Package GitHub]](https://github.com/wangATsu/ECV)
+
 
 ### Interdisciplinary Applications
 
