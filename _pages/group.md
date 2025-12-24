@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Group"
-permalink: /group/
+title: "Software"
+permalink: /Software/
 author_profile: true
 ---
 
