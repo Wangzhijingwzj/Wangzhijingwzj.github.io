@@ -7,8 +7,9 @@ author_profile: true
 
 Research Interests
 ------
-- Factor Analysis
+- Generalized Factor Analysis
 - Sufficient Dimension Reduction
+- Transfer Learning
 - Complex Data Analysis
 - Statistical Applications
 
