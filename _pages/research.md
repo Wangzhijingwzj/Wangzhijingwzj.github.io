@@ -20,7 +20,7 @@ Publications
 * **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang (2025). Data Thinning for Poisson Factor Models and Its Applications. *Journal of the American Statistical Association*.
 [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2546577) [[Code]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2546577)
 
-* **Zhijing Wang** (2025). Entrywise splitting cross-validation in generalized factor models: from sample splitting to entrywise splitting. *Biometrics*, 81(4).
+* **Zhijing Wang** (2025). Entrywise Splitting Cross-validation in Generalized Factor Models: From Sample Splitting to Entrywise Splitting. *Biometrics*, 81(4).
 [[Paper]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[Code]](https://academic.oup.com/biometrics/article-abstract/81/4/ujaf153/8348298) [[R Package CRAN]](https://cran.r-project.org/package=pECV) [[R Package GitHub]](https://github.com/wangATsu/ECV)
 
 
@@ -53,16 +53,14 @@ Preprints and Working Papers
 [[R Package CRAN]](https://CRAN.R-project.org/package=tcv) [[R Package GitHub]](https://github.com/Wangzhijingwzj/tcv)
 
 * **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
-*Manuscript*.
-[[R Package CRAN]](https://CRAN.R-project.org/package=transGFM) [[R Package GitHub]](https://github.com/zjwangATsu/transGFM)
+*Manuscript to Be Submitted*.
 
-* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor augmented Hurdle Poisson model and its application.
-*Manuscript*.
-[[R Package GitHub]](https://github.com/Wangzhijingwzj/fahp)
+* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Application.
+*Manuscript in Preparation*.
 
 * **Zhijing Wang**, Yuchen Wu, Xun Zhang. Does Education Reform Reduce the Housing Premium of School Districts? Evidence from Beijing.
-*Manuscript*.
+*Manuscript in Preparation*.
 
 * **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
-*Manuscript*.
+*Manuscript in Preparation*.
 
