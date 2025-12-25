@@ -7,7 +7,7 @@ author_profile: true
 
 Teaching Assistant
 ------
-* Basic Mathematical Statistics (for Master), Autumn 2022,2023
+* Basic Mathematical Statistics (for Master and Ph.D.), Autumn 2022,2023
   
     _Distinguish TA award_
   
