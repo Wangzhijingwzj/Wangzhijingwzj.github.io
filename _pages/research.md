@@ -42,6 +42,10 @@ Publications
 * 王红瑞, 杜新龙, 王煜, 杨亚锋, **王祉静**, 郑小康 (2025). 水资源空间均衡调控理论框架与平衡机制. *水资源保护*.
 [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=f0DSObGwzqhouz-g4sTdOSM-ol8cmu8v6s71y3Eoo5diAUClBPXE6LYkrWOTiv8tAbq9nTrJDK76Jxbszs0Ex6djRG2hnTbyb4hzJuQ8X_5S8061uUACGzmNgB21T-zU9XNN0OWbJAI_kjqWZzruTpP3l6UuA0bCt-lKCuOYUQGCksXk8jDNpQ==&uniplatform=NZKPT&language=CHS)
 
+### Patents
+
+* 王烜, 蔡剑英, 方佳佳, **王祉静**, 李春晖, 蔡宴朋, 刘强, 杨志峰 (2022). 一种考虑多水源联合概率分布的区域可供水量估算方法. *中国发明专利* (授权). 专利号: CN113033014B. 
+
 
 Preprints and Working Papers
 ------
@@ -56,12 +60,11 @@ Preprints and Working Papers
 * **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
 *Manuscript to Be Submitted*.
 
-* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Application.
+* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Applications.
 *Manuscript in Preparation*.
 
 * **Zhijing Wang**, Yuchen Wu, Xun Zhang. Does Education Reform Reduce the Housing Premium of School Districts? Evidence from Beijing.
-*Manuscript in Preparation*.
+*Manuscript to Be Submitted*.
 
 * **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
-*Manuscript in Preparation*.
-
+*Submitted*.
