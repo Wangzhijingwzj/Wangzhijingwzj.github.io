@@ -20,12 +20,3 @@ Implements the thinning cross-validation method specifically designed for Poisso
 * **Related Paper**: *Thinning Cross-Validation for Poisson Factor Models* (Submitted to Statistica Sinica)
 * **Links**: [[R Package CRAN]](https://CRAN.R-project.org/package=tcv) [[R Package GitHub]](https://github.com/Wangzhijingwzj/tcv)
 
-### transGFM: Transfer Learning via Generalized Factor Models
-A toolbox for transfer learning in high-dimensional settings using generalized factor models to bridge the dimensionality gap.
-* **Related Paper**: *Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models* (Manuscript)
-* **Links**: [[R Package CRAN]](https://CRAN.R-project.org/package=transGFM) [[R Package GitHub]](https://github.com/zjwangATsu/transGFM)
-
-### fahp: Factor Augmented Hurdle Poisson Model
-Implements the Factor Augmented Hurdle Poisson (FAHP) model for analyzing zero-inflated count data with latent factors.
-* **Related Paper**: *Factor augmented Hurdle Poisson model and its application* (Manuscript)
-* **Links**: [[R Package GitHub]](https://github.com/Wangzhijingwzj/fahp)
