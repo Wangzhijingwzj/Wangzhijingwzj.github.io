@@ -53,12 +53,13 @@ Preprints and Working Papers
 * **Zhijing Wang**. Sparse Generalized Factor Models with Weaker Loadings. *Major Revision in Scandinavian Journal of Statistics*.
 [[R Package CRAN]](https://CRAN.R-project.org/package=sparseGFM) [[R Package GitHub]](https://github.com/zjwang1013/sparseGFM)
 
+* **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
+*Submitted to Journal of the Royal Statistical Society, Series B (Statistical Methodology)*.
+
 * **Zhijing Wang**, Heng Peng, Peirong Xu. Thinning Cross-Validation for Poisson Factor Models.
 *Submitted to Statistica Sinica*.
 [[R Package CRAN]](https://CRAN.R-project.org/package=tcv) [[R Package GitHub]](https://github.com/Wangzhijingwzj/tcv)
 
-* **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
-*Manuscript to Be Submitted*.
 
 * **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Applications.
 *Manuscript in Preparation*.
