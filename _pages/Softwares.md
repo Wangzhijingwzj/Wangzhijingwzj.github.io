@@ -15,6 +15,11 @@ Provides efficient estimation for sparse generalized factor models, particularly
 * **Related Paper**: *Sparse Generalized Factor Models with Weaker Loadings* (Major Revision in Scandinavian Journal of Statistics)
 * **Links**: [[R Package CRAN]](https://CRAN.R-project.org/package=sparseGFM) [[R Package GitHub]](https://github.com/zjwang1013/sparseGFM)
 
+### transGFM: Transfer Learning via Generalized Factor Models
+A toolbox for transfer learning in high-dimensional settings using generalized factor models to bridge the dimensionality gap.
+* **Related Paper**: Manuscript
+* **Links**: [[R Package CRAN]](https://CRAN.R-project.org/package=transGFM) [[R Package GitHub]](https://github.com/zjwangATsu/transGFM)
+* 
 ### tcv: Thinning Cross-Validation
 Implements the thinning cross-validation method specifically designed for Poisson factor models.
 * **Related Paper**: *Thinning Cross-Validation for Poisson Factor Models* (Submitted to Statistica Sinica)
