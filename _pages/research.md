@@ -55,6 +55,8 @@ Preprints and Working Papers
 
 * **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
 *Submitted to Journal of the Royal Statistical Society, Series B (Statistical Methodology)*.
+[[R Package CRAN]](https://CRAN.R-project.org/package=transGFM) [[R Package GitHub]](https://github.com/zjwangATsu/transGFM)
+
 
 * **Zhijing Wang**, Heng Peng, Peirong Xu. Thinning Cross-Validation for Poisson Factor Models.
 *Submitted to Statistica Sinica*.
