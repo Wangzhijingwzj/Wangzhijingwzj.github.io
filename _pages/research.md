@@ -66,8 +66,9 @@ Preprints and Working Papers
 * **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Applications.
 *Manuscript in Preparation*.
 
+* **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
+*Submitted*.
+
 * **Zhijing Wang**, Yuchen Wu, Xun Zhang. Does Education Reform Reduce the Housing Premium of School Districts? Evidence from Beijing.
 *Manuscript to Be Submitted*.
 
-* **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
-*Submitted*.
