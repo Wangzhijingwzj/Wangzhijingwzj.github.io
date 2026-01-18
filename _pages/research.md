@@ -54,12 +54,12 @@ Preprints and Working Papers
 [[R Package CRAN]](https://CRAN.R-project.org/package=sparseGFM) [[R Package GitHub]](https://github.com/zjwang1013/sparseGFM)
 
 * **Zhijing Wang**, Peirong Xu, Hongyu Zhao, and Tao Wang. Bridging the Dimensionality Gap: Transfer Learning via Generalized Factor Models.
-*Submitted to Journal of the Royal Statistical Society, Series B (Statistical Methodology)*.
+*Under Review in Journal of the Royal Statistical Society, Series B (Statistical Methodology)*.
 [[R Package CRAN]](https://CRAN.R-project.org/package=transGFM) [[R Package GitHub]](https://github.com/zjwangATsu/transGFM)
 
 
 * **Zhijing Wang**, Heng Peng, Peirong Xu. Thinning Cross-Validation for Poisson Factor Models.
-*Submitted to Statistica Sinica*.
+*Under Review in Statistica Sinica*.
 [[R Package CRAN]](https://CRAN.R-project.org/package=tcv) [[R Package GitHub]](https://github.com/Wangzhijingwzj/tcv)
 
 
@@ -72,7 +72,7 @@ Preprints and Working Papers
 
 
 * **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
-*Submitted*.
+*Under Review*.
 
 
 * **Zhijing Wang**, Yuchen Wu, Xun Zhang. Does Education Reform Reduce the Housing Premium of School Districts? Evidence from Beijing.
