@@ -70,6 +70,9 @@ Preprints and Working Papers
 * **Zhijing Wang**. Mechanism Discovery: A Unified Framework for Latent Structure Attribution.
 *Manuscript to Be Submitted*.
 
+* **Zhijing Wang**, Junhui Wang. Fission Cross-Validation for Network and Its Application.
+*Work in Progress*.
+
 
 * **Zhijing Wang**, Feihu Zheng. "Close and Clean" to all or some? A Study on the Interaction between Government and Enterprises in Emerging Economies Based on a Gender Perspective.
 *Under Review*.
