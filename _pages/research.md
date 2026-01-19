@@ -67,7 +67,7 @@ Preprints and Working Papers
 *Manuscript to Be Submitted*.
 
 
-* **Zhijing Wang**. Mechanism Discovery: A Unified Framework for Latent Structure Attribution.
+* **Zhijing Wang**, Nengjie Zhu. Mechanism Discovery: A Unified Framework for Latent Structure Attribution.
 *Manuscript to Be Submitted*.
 
 * **Zhijing Wang**, Junhui Wang. Fission Cross-Validation for Network and Its Application.
