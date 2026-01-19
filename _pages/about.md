@@ -13,7 +13,7 @@ Hi! I am Zhijing Wang. I am currently a Ph.D. candidate in the School of Mathema
 I received my Bachelor’s degree in Statistics from the School of Statistics at Beijing Normal University (BNU) in 2022. During my undergraduate studies, I was fortunate to work under the supervision of Prof. [Gaorong Li](https://stat.bnu.edu.cn/zwjl/247617.htm) on mathematical statistics and Prof. [Xun Zhang](https://stat.bnu.edu.cn/zwjl/249964.htm) on economic statistics. Additionally, I also obtained a Bachelor’s degree in Economics from the Business School at BNU, under the supervision of Prof. [Mi Dai](https://bshr.bnu.edu.cn/Public/htm/news/5/20.html).
 
 
-My research interests mainly focus on  **factor analysis and its generalization**, **text analysis**, **sufficient dimension reduction**, **transfer learning**, and **model selection**. I am also broadly interested in the applications of statistics and machine learning to solve significant problems in social and scientific fields, particularly in **economics**, **finance**, and **environmental science**.
+My research interests mainly focus on  **factor analysis and its generalization**, **text analysis**, **sufficient dimension reduction**, **transfer learning**, and **model selection**. I am also broadly interested in the applications of statistics and machine learning to solve significant problems in social and scientific fields, particularly in **biology**, **economics**, and **environmental science**.
 
 
 # Recent News
