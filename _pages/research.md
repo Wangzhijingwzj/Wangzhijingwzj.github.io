@@ -47,7 +47,7 @@ Publications
 * 王烜, 蔡剑英, 方佳佳, **王祉静**, 李春晖, 蔡宴朋, 刘强, 杨志峰 (2022). 一种考虑多水源联合概率分布的区域可供水量估算方法. *发明专利*. 专利号: CN113033014B. 
 
 
-Preprints and Working Papers
+Under Review & Working Papers
 ------
 
 * **Zhijing Wang**. Sparse Generalized Factor Models with Weaker Loadings. *Major Revision in Scandinavian Journal of Statistics*.
