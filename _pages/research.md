@@ -63,11 +63,10 @@ Preprints and Working Papers
 [[R Package CRAN]](https://CRAN.R-project.org/package=tcv) [[R Package GitHub]](https://github.com/Wangzhijingwzj/tcv)
 
 
-* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Applications.
-*Manuscript to Be Submitted*.
-
-
 * **Zhijing Wang**, Nengjie Zhu. Mechanism Discovery: A Unified Framework for Latent Structure Attribution.
+*Under Review*.
+
+* **Zhijing Wang**, Peirong Xu, Tao Wang. Factor Augmented Hurdle Poisson Model and Its Applications.
 *Manuscript to Be Submitted*.
 
 * **Zhijing Wang**, Junhui Wang. Fission Cross-Validation for Network and Its Applications.
