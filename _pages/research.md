@@ -37,8 +37,10 @@ author_profile: true
 
 - Chenxi Wei, Xuan Wang, Jiajia Fang, **Zhijing Wang**, Chunhui Li, Qiang Liu, Jingzhi Yu (2023). A New Method for Estimating Multi-source Water Supply Considering Joint Probability Distributions under Uncertainty. *Frontiers in Earth Science*, 10: 929613.
 
+<!--
 - Xingyi Chen, **Zhijing Wang**, Xinyi Li, Zhongyang Liu, Kun Li (2021). The Impact of Covid-19 on the Securities Market: Evidence from Chinese Stock and Bond Markets. *Procedia Computer Science*, 187: 294–299.
 
 ## Patents
 
 - 王烜, 蔡剑英, 方佳佳, **王祉静**, 李春晖, 蔡宴朋, 刘强, 杨志峰 (2022). 一种考虑多水源联合概率分布的区域可供水量估算方法. 发明专利. 专利号：CN113033014B.
+-->
