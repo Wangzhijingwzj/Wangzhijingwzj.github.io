@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zhijing Wang. I am currently a Ph.D. candidate in the School of Mathematical Sciences at Shanghai Jiao Tong University (SJTU), advised by Prof. [Tao Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKeit0) and Prof. [Peirong Xu](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKemJc).
+Hi! I am Zhijing Wang, a **lecturer** at the **School of Statistics, Beijing Normal University (BNU)**. I joined BNU in July 2026.
 
-I received my Bachelor’s degree in Statistics from the School of Statistics at Beijing Normal University (BNU) in 2022. During my undergraduate studies, I was fortunate to work under the supervision of Prof. [Gaorong Li](https://stat.bnu.edu.cn/zwjl/247617.htm) on mathematical statistics and Prof. [Xun Zhang](https://stat.bnu.edu.cn/zwjl/249964.htm) on economic statistics. Additionally, I also obtained a Bachelor’s degree in Economics from the Business School at BNU, under the supervision of Prof. [Mi Dai](https://bshr.bnu.edu.cn/Public/htm/news/5/20.html).
+I received my Ph.D. in Statistics from the School of Mathematical Sciences at Shanghai Jiao Tong University (SJTU) in 2026, under the supervision of Prof. [Tao Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKeit0) and Prof. [Peirong Xu](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKemJc). I also hold bachelor’s degrees in Statistics from the School of Statistics and in Economics from the Business School at BNU, both awarded in 2022.
 
-
-My research interests mainly focus on  **factor analysis and its generalization**, **text analysis**, **sufficient dimension reduction**, **transfer learning**, and **model selection**. I am also broadly interested in the applications of statistics and machine learning to solve significant problems in social and scientific fields, particularly in **biology**, **economics**, and **environmental science**.
-
+My research interests include **factor analysis and its generalizations**, **text analysis**, **sufficient dimension reduction**, **transfer learning**, **model selection**, **artificial intelligence**, and **biostatistics**. I am particularly interested in using **statistical models to understand and explain phenomena in artificial intelligence**. More broadly, I am interested in applications of statistics and machine learning to **biology**, **economics**, and **environmental science**.
 
 # Recent News
-- **Nov. 2025:** Our paper *Entrywise splitting cross-validation in generalized factor models: from sample splitting to entrywise splitting* has been published online in **Biometrics**.
-- **Oct. 2025:** I was honored to receive the **National Scholarship** at Shanghai Jiao Tong University.
-- **Aug. 2025:** Our paper *Data thinning for Poisson factor models and its applications* has been published online in the **Journal of the American Statistical Association (JASA)**.
 
-  
-Contact
-======
-* Address: 800 Dongchuan RD Shanghai 200240, Minhang District, P.R. China
-* Email: wangzhijing (at) sjtu.edu.cn
+- **Aug. 2026:** Our paper *SMART: A Modular Two-Stage Framework for Structural Representation Attribution* has been accepted by **Transactions on Machine Learning Research (TMLR)**.
+- **Jul. 2026:** My paper *Sparse Generalized Factor Models With Weaker Loadings* has been accepted by **Scandinavian Journal of Statistics (SJS)**.
+- **Nov. 2025:** My paper *Entrywise splitting cross-validation in generalized factor models: from sample splitting to entrywise splitting* has been published online in **Biometrics**.
+- **Oct. 2025:** I received the **National Scholarship** at Shanghai Jiao Tong University.
+- **Aug. 2025:** The accepted author version of our paper *Data Thinning for Poisson Factor Models and its Applications* became available online in the **Journal of the American Statistical Association (JASA)**.
+
+# Contact
+
+- **Address:** School of Statistics, Beijing Normal University, No. 19 Xinjiekouwai Street, Haidian District, Beijing 100875, China
+- **Email:** [wangzhijing@bnu.edu.cn](mailto:wangzhijing@bnu.edu.cn)
