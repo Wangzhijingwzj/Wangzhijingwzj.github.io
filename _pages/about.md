@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Zhijing Wang, a **lecturer** at the **School of Statistics, Beijing Normal University (BNU)**. I joined BNU in July 2026.
+Hi! I am Zhijing Wang, a lecturer at the School of Statistics, Beijing Normal University. I joined BNU in July 2026.
 
 I received my Ph.D. in Statistics from the School of Mathematical Sciences at Shanghai Jiao Tong University (SJTU) in 2026, under the supervision of Prof. [Tao Wang](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKeit0) and Prof. [Peirong Xu](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKemJc). I also hold bachelor’s degrees in Statistics from the School of Statistics and in Economics from the Business School at BNU, both awarded in 2022.
 
-My research interests include **factor analysis and its generalizations**, **text analysis**, **sufficient dimension reduction**, **transfer learning**, **model selection**, **artificial intelligence**, and **biostatistics**. I am particularly interested in using **statistical models to understand and explain phenomena in artificial intelligence**. More broadly, I am interested in applications of statistics and machine learning to **biology**, **economics**, and **environmental science**.
+My research interests include factor analysis and its generalization, text analysis, sufficient dimension reduction, transfer learning, model selection, artificial intelligence, and biostatistics. I am particularly interested in using statistical models to understand and explain phenomena in artificial intelligence. More broadly, I am interested in applications of statistics and machine learning to biology, economics, and environmental science.
 
 # Recent News
 
