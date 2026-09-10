@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhijing Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Zhijing Wang"
-description              : &description "Ph.D. Candidate"
+description              : &description "Ph.D."
 url                      : https://Wangzhijingwzj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wangzhijingwzj/Wangzhijingwzj.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhijing Wang (王祉静)"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate"
-  location         : "Shanghai, China"
+  bio              : "Ph.D."
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "wangzhijing@sjtu.edu.cn"
+  email            : "wangzhijing@bnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
