@@ -5,8 +5,8 @@ permalink: /life/
 author_profile: true
 
 photos:
-  - photo1.jpg
-  - photo2.jpg
+  - photo-01.jpg
+  - photo-02.jpg
 ---
 
 A collection of photographs from everyday life.
