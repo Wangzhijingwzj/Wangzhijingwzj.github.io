@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhijing Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Zhijing Wang"
-description              : &description "Ph.D."
+description              : &description ""
 url                      : https://Wangzhijingwzj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wangzhijingwzj/Wangzhijingwzj.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhijing Wang (王祉静)"
   avatar           : "profile1.png"
-  bio              : "Ph.D."
+  bio              :
   location         : "Beijing, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    :
   email            : "wangzhijing@bnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Wangzhijingwzj"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -223,7 +223,7 @@ plugins:
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
