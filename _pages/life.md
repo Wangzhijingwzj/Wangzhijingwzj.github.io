@@ -1,26 +1,44 @@
 ---
 layout: archive
-title: "Life & Photography"
+title: "Life"
 permalink: /life/
 author_profile: true
 
-gallery:
-  - url: life/photo-01.jpg
-    image_path: life/photo-01.jpg
-    alt: "Photo 1"
-    title: "Photo 1"
-
-  - url: life/photo-02.jpg
-    image_path: life/photo-02.jpg
-    alt: "Photo 2"
-    title: "Photo 2"
-
-  - url: life/photo-03.jpg
-    image_path: life/photo-03.jpg
-    alt: "Photo 3"
-    title: "Photo 3"
+photos:
+  - photo-01.jpg
+  - photo-02.jpg
 ---
 
 A collection of photographs from everyday life.
 
-{% include gallery %}
+<style>
+.life-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+
+.life-photo-grid a {
+  display: block;
+  min-width: 0;
+}
+
+.life-photo-grid img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+</style>
+
+<div class="life-photo-grid">
+{% for photo in page.photos %}
+  <a href="{{ site.baseurl }}/images/life/{{ photo }}">
+    <img
+      src="{{ site.baseurl }}/images/life/{{ photo }}"
+      alt="Photograph {{ forloop.index }}"
+      loading="lazy">
+  </a>
+{% endfor %}
+</div>
