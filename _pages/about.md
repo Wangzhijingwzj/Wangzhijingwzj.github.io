@@ -14,7 +14,7 @@ I received my Ph.D. in Statistics from the School of Mathematical Sciences at Sh
 
 My research interests include factor analysis and its generalization, text analysis, sufficient dimension reduction, transfer learning, model selection, artificial intelligence, and biostatistics. I am particularly interested in using statistical models to understand and explain phenomena in artificial intelligence. More broadly, I am interested in applications of statistics and machine learning to biology, economics, and environmental science.
 
-I am looking for motivated students to work with me. If you are interested in my research, (or think I might be interested in yours,) please feel free to email me.
+**I am looking for motivated students to work with me. If you are interested in my research, (or think I might be interested in yours,) please feel free to email me.**
 
 # Recent News
 
